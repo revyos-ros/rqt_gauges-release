@@ -1,3 +1,26 @@
+## rqt_gauges (jazzy) - 0.0.3-3
+
+The packages in the `rqt_gauges` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rqt_gauges --override-release-repository-push-url git@github.com:revyos-ros/rqt_gauges-release` on `Mon, 24 Jun 2024 07:56:08 -0000`
+
+The `rqt_gauges` package was released.
+
+Version of package(s) in repository `rqt_gauges`:
+
+- upstream repository: https://github.com/ToyotaResearchInstitute/gauges2
+- release repository: https://github.com/revyos-ros/rqt_gauges-release.git
+- rosdistro version: `0.0.3-2`
+- old version: `0.0.3-2`
+- new version: `0.0.3-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_gauges (humble) - 0.0.3-1
 
 The packages in the `rqt_gauges` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble rqt_gauges` on `Thu, 14 Mar 2024 15:09:26 -0000`
